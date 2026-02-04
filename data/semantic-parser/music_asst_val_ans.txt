@@ -1,0 +1,34 @@
+{"slots": {"music_item": "artist", "playlist": "Jukebox Boogie Rhythm & Blues"}}
+{"slots": {"entity_name": "nuba", "playlist_owner": "my", "playlist": "Metal Party"}}
+{"slots": {"music_item": "album", "playlist": "The Sweet Suite"}}
+{"slots": {"music_item": "song", "playlist_owner": "my", "playlist": "madden nfl 16"}}
+{"slots": {"music_item": "song", "artist": "Yutaka Ozaki", "playlist_owner": "my", "playlist": "this is miles davis"}}
+{"slots": {"entity_name": "give us rest", "playlist_owner": "my", "playlist": "70s Smash Hits"}}
+{"slots": {"music_item": "album", "playlist": "Spanish Beat"}}
+{"slots": {"entity_name": "lofty fake anagram", "playlist": "la mejor m\u00fasica de bso"}}
+{"slots": {"music_item": "track", "playlist": "drum & breaks"}}
+{"slots": {"artist": "porter wagoner", "playlist": "The Sleep Machine Waterscapes"}}
+{"slots": {"artist": "Richard McNamara", "music_item": "song", "playlist": "Just Smile"}}
+{"slots": {"entity_name": "Recalled to Life", "playlist": "This Is Alejandro Fern\u00e1ndez"}}
+{"slots": {"artist": "chris clark", "music_item": "tune", "playlist_owner": "my", "playlist": "women of the blues"}}
+{"slots": {"artist": "Jean Philippe Goncalves", "playlist_owner": "my", "playlist": "running to rock 170 to 190 bpm"}}
+{"slots": {"music_item": "song", "playlist_owner": "my", "playlist": "All Out 60s"}}
+{"slots": {"entity_name": "The Famous Flower of Serving-Men", "playlist_owner": "my", "playlist": "evening acoustic"}}
+{"slots": {"artist": "tommy johnson", "playlist": "The MetalSucks Playlist"}}
+{"slots": {"artist": "Larry Heard", "playlist_owner": "my", "playlist": "laundry"}}
+{"slots": {"music_item": "track", "playlist_owner": "my", "playlist": "Hands Up"}}
+{"slots": {"music_item": "album", "playlist": "hot 50"}}
+{"slots": {"music_item": "song", "playlist": "Mac 'N Cheese"}}
+{"slots": {"entity_name": "our little corner of the world music from gilmore girls", "playlist_owner": "my", "playlist": "The Funny Thing About Football Is"}}
+{"slots": {"music_item": "album", "playlist": "Might and Myth Power Metal"}}
+{"slots": {"music_item": "song", "artist": "Too Poetic", "playlist_owner": "my", "playlist": "Piano Ballads"}}
+{"slots": {"music_item": "album", "playlist_owner": "my", "playlist": "Flow Espa\u00f1ol"}}
+{"slots": {"music_item": "artist", "playlist_owner": "my", "playlist": "spotlight on country 2016"}}
+{"slots": {"music_item": "artist", "playlist": "Showstopper Being Mary Jane"}}
+{"slots": {"music_item": "album", "playlist": "Hipster Soul"}}
+{"slots": {"artist": "Ted Heath", "playlist": "road trip"}}
+{"slots": {"playlist_owner": "my", "playlist": "fantastic workout", "artist": "sara bareilles"}}
+{"slots": {"artist": "40 cal", "music_item": "tune", "playlist": "laundry"}}
+{"slots": {"artist": "Roel van Velzen", "playlist_owner": "my", "playlist": "party of the century"}}
+{"slots": {"artist": "Vandemataram Srinivas", "music_item": "track", "playlist": "HipHop Hot 50"}}
+{"slots": {"artist": "Jonathan Sprout", "music_item": "album", "playlist_owner": "my", "playlist": "this is miranda lambert"}}
